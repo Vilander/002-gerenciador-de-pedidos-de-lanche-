@@ -1,0 +1,24 @@
+{
+  "name": "002-gerenciador-de-pedidos-de-lanche-",
+  "version": "1.0.0",
+  "description": "Objetivo: Criação de modelos de dados (classes/objetos) para o Back-End. Implementação da lógica de tratamento de requisições (POST/GET) e manipulação de dados (CRUD - Criar, Ler, Atualizar, Deletar), utilizando Node.js/Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vilander/002-gerenciador-de-pedidos-de-lanche-.git"
+  },
+  "keywords": [],
+  "author": "Vilander Costa",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vilander/002-gerenciador-de-pedidos-de-lanche-/issues"
+  },
+  "homepage": "https://github.com/Vilander/002-gerenciador-de-pedidos-de-lanche-#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
